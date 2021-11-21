@@ -146,8 +146,7 @@
   font-weight: normal;
   margin: 0 auto;
   margin-top: 20px;
-  text-align: center
-
+  text-align: center;
 }
 
 .table{
@@ -231,14 +230,9 @@
 
 .section-title_theme_dark,
 .section-subtitle_theme_dark,
-.able__heading_theme_dark,
+.table__heading_theme_dark,
 .table__text_theme_dark{
   color: #fff;
-}
-
-.table__cell_theme_dark{
-  width: 200px;
-  margin-top: 80px;
 }
 
 .kaufman__triangle{
