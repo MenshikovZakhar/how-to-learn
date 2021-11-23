@@ -269,7 +269,7 @@
 .footer__columns {
     width: 90%;
     display: flex;
-    min-height: 250px;
+    min-height: 350px;
     justify-content: space-between;
     margin: 0 auto;
 }
