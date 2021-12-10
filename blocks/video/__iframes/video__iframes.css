@@ -5,5 +5,5 @@
   display: flex;
   justify-content: space-between;
   padding: 0px;
-  width: 1050px;
+  gap: 20px;
 }
