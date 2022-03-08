@@ -2,6 +2,7 @@
 
 Проектная работа №2.
 
+[Ссылка на проект](https://menshikovzakhar.github.io/how-to-learn/)
 
 ## Описание
 
